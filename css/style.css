@@ -144,6 +144,15 @@ footer nav a:hover{
     border-radius: 50%;
 }
 
+.about_container{
+    width: 80%;
+    margin: 50px auto;
+}
+
+.about_container img{
+    max-width: 100%;
+}
+
 @media screen and (max-width: 420px){
     .agvantages{
         flex-direction: column;
